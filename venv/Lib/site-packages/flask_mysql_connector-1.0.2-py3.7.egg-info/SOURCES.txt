@@ -1,0 +1,11 @@
+README.md
+setup.cfg
+setup.py
+flask_mysql_connector/__init__.py
+flask_mysql_connector/flask_mysql_connector.py
+flask_mysql_connector.egg-info/PKG-INFO
+flask_mysql_connector.egg-info/SOURCES.txt
+flask_mysql_connector.egg-info/dependency_links.txt
+flask_mysql_connector.egg-info/not-zip-safe
+flask_mysql_connector.egg-info/requires.txt
+flask_mysql_connector.egg-info/top_level.txt

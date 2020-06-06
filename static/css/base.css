@@ -1,0 +1,13 @@
+body{
+    background: #f3f3f3;
+}
+.main{
+    background: #fff;
+    margin: 0 auto;
+    width: 730px;
+    overflow: hidden;
+    padding: 10px;
+}
+.page-title{
+    text-align: center;
+}
